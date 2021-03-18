@@ -10,5 +10,8 @@ def f2():
 
 def f3():
     print("F3")
+
+def f5():
+    print("F5")
 name = input ("Enter your name:")
 print(f"hello {name}")
